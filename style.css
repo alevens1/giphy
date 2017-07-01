@@ -1,0 +1,20 @@
+body{
+	background-image: url ("https://s-media-cache-ak0.pinimg.com/736x/dd/ed/9f/dded9f46f74a1f87306d8027c8c41a70--abstract-background-design-vector-background.jpg") 
+}
+
+
+#user-input{
+	position: absolute;
+	left: 68%;
+	top: 30%;
+
+}
+
+#buttons{
+	color: #57D6E4;
+
+}
+
+.btn btn-default{
+	color: #298A99;
+}
